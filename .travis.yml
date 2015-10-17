@@ -40,5 +40,5 @@ deploy:
   skip_cleanup: true
 
   on:
-    repo: RSATom/WebChimera.js
+    repo: unbornchikken/WebChimera.js
     tags: true
