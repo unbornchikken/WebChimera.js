@@ -41,4 +41,3 @@ deploy:
 
   on:
     repo: unbornchikken/WebChimera.js
-    tags: true
