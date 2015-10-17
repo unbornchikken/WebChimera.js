@@ -38,6 +38,3 @@ deploy:
   file: ./build/Release/$WCJS_ARCHIVE
 
   skip_cleanup: true
-
-  on:
-    repo: unbornchikken/WebChimera.js
